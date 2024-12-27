@@ -65,3 +65,7 @@ user_pref("network.auth.subresource-http-auth-allow", 1);
  * [SETTING] Privacy & Security>Logins and Passwords>Ask to save logins and passwords for websites ***/
 user_pref("signon.rememberSignons", false);
 
+// other
+user_pref("browser.translations.enable", false);
+
+
